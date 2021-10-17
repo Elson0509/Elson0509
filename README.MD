@@ -4,6 +4,7 @@ I am a web developer living in Canada, looking for opportunities. I am currently
 
 <br/><br/>
 
+<div style="border:1px solid white">
 <h3 align="center">
   Connect with me
 </h3>
@@ -19,8 +20,10 @@ I am a web developer living in Canada, looking for opportunities. I am currently
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/>
   </a>
 </p>
-
+</div>
 <br/><br/>
+
+<div style="border:1px solid white">
 <h3 align="center">
   Languages and Tools
 </h3>
@@ -56,5 +59,5 @@ I am a web developer living in Canada, looking for opportunities. I am currently
     <img src="https://www.pngarea.com/pngm/638/4454894_react-logo-png-react-native-transparent-png.png" alt="reactnative" width="40" height="40"/> 
   </a> 
 </p>
-
+</div>
 <br>
