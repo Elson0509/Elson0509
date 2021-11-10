@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, 👋 I'm Elson Ramos</h1>
 
-I am a web developer living in Canada, looking for opportunities.
+<p align="center">I am a web developer living in Canada, looking for opportunities.</p>
 
 <br/><br/>
 
