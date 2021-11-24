@@ -16,9 +16,6 @@
    <a href="https://stackoverflow.com/users/8882025/elson-ramos" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="40" height="40"/>
   </a>
-   <a href="https://twitter.com/elson_ramos" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="twitter" width="40" height="40"/>
-  </a>
 </p>
 </div>
 <br/><br/>
