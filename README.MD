@@ -53,7 +53,7 @@
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://reactnative.dev/" target="_blank"> 
-    <img src="https://www.pngarea.com/pngm/638/4454894_react-logo-png-react-native-transparent-png.png" alt="reactnative" width="40" height="40"/> 
+    <img src="https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57fe22423d5_React_img1-p-500.png" alt="reactnative" width="40" height="40"/> 
   </a> 
 </p>
 </div>
