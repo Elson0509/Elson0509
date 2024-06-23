@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
   </a>
    <a href="https://stackoverflow.com/users/8882025/elson-ramos" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="40" width="auto"/>
   </a>
 </p>
 </div>
